@@ -56,7 +56,7 @@ Forecast output:
 ## Google Sheet
 The Google Sheet used for data storage and forecasting is shared with view access:
 
-[Insert Google Sheet Link Here]
+https://docs.google.com/spreadsheets/d/1yq4-BzvCzkMG_50LCTCjMtEpWXCPDUSZZzEJSZbBDYg/edit?usp=sharing
 
 ## Key Results
 - ESP32 successfully collects temperature and humidity readings every 10 minutes.
